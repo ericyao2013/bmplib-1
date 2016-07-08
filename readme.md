@@ -1,5 +1,5 @@
 # Usage
 To compile with g++
-'''bash
+```bash
 g++ bmp.c sample.c
-'''
+```
