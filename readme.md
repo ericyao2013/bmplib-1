@@ -1,5 +1,6 @@
 # Usage
-To compile with g++
+Does not compile with g++.
+To compile with gcc
 ```bash
-g++ bmp.c sample.c
+gcc bmp.c sample.c
 ```

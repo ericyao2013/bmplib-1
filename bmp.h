@@ -2,7 +2,7 @@
 #define BMP_H
 
 typedef struct BITMAP_HEADER {
-	char bfType[2];
+	uint16_t bfType;
 	uint32_t bfSize;
 	uint16_t bfReserved;
 	uint32_t bfOffBits;
